@@ -1,0 +1,5 @@
+# Made by every build
+build/
+*.elf
+*.smdh
+.DS_Store
